@@ -22,6 +22,9 @@ Use it to rapidly build dashboards, SaaS apps, admin panels, CRM systems, and in
 - **Vue** : <a href="https://vue-free.tailwind-admin.com/" target="_blank">Live Demo</a>
 
 
+![Stars](https://img.shields.io/github/stars/Tailwind-Admin/free-tailwind-admin-dashboard-template)
+![Forks](https://img.shields.io/github/forks/Tailwind-Admin/free-tailwind-admin-dashboard-template)
+
 [![Tailwind Admin Template Demo Screenshot](https://tailwind-admin.github.io/tailwind-admin-documentation/assets/images/Free-dashboard.png)](https://tailwind-admin.com)
 
 
