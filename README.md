@@ -4,7 +4,10 @@
    </a>
 </p>
 
-# 🚀 Free open-source Shadcn admin dashboard built with React & Tailwind CSS 
+# Shadcn admin dashboard built with React & Tailwind CSS 
+
+[![Tailwind Admin Template Demo Screenshot](https://tailwind-admin.github.io/tailwind-admin-documentation/assets/images/Free-dashboard.png)](https://tailwind-admin.com)
+
 ### Multi-Framework UI Kit for **Next.js, React, Angular 21 & Vue**
 
 A **free, open-source Tailwind CSS admin dashboard template** built for modern web developers.  
@@ -24,9 +27,6 @@ Use it to rapidly build dashboards, SaaS apps, admin panels, CRM systems, and in
 
 ![Stars](https://img.shields.io/github/stars/Tailwind-Admin/free-tailwind-admin-dashboard-template)
 ![Forks](https://img.shields.io/github/forks/Tailwind-Admin/free-tailwind-admin-dashboard-template)
-
-[![Tailwind Admin Template Demo Screenshot](https://tailwind-admin.github.io/tailwind-admin-documentation/assets/images/Free-dashboard.png)](https://tailwind-admin.com)
-
 
 ## 👋 Introduction
 
@@ -177,3 +177,4 @@ Your support helps this project grow faster!
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Nextjs Project: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template&root-directory=tailwind-admin-nextjs-free/package)
+
