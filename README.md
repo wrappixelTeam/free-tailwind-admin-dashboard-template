@@ -8,7 +8,7 @@
 
 [![Tailwind Admin Template Demo Screenshot](https://tailwind-admin.github.io/tailwind-admin-documentation/assets/images/Free-dashboard.png)](https://tailwind-admin.com)
 
-### Multi-Framework UI Kit for **Next.js, React, Angular 21 & Vue**
+### Multi-Framework UI Kit for **Next.js, React, Angular 21, Vue & Tanstack Start**
 
 A **free, open-source Tailwind CSS admin dashboard template** built for modern web developers.  
 Use it to rapidly build dashboards, SaaS apps, admin panels, CRM systems, and internal tools.
@@ -23,6 +23,7 @@ Use it to rapidly build dashboards, SaaS apps, admin panels, CRM systems, and in
 - **React** : <a href="https://react-free.tailwind-admin.com/" target="_blank">Live Demo</a>
 - **Angular 21** : <a href="https://angular-free.tailwind-admin.com/" target="_blank">Live Demo</a>
 - **Vue** : <a href="https://vue-free.tailwind-admin.com/" target="_blank">Live Demo</a>
+- **Tanstack Start** : <a href="https://tailwindadmin-tanstack-start.netlify.app/" target="_blank">Live Demo</a>
 
 
 ![Stars](https://img.shields.io/github/stars/Tailwind-Admin/free-tailwind-admin-dashboard-template)
@@ -63,7 +64,7 @@ Built for speed, customization, and scalability, Tailwindadmin is fully responsi
 - **Available in React & Next.js**  
   Choose between React or server-rendered Next.js versions based on your project requirements.
 
-- **Shadcn UI Integration for React, Nextjs and Vue**  
+- **Shadcn UI Integration for React, Nextjs, Vue and Tanstack Start**  
   Leverages Shadcn UI for beautifully crafted, accessible, and themeable UI components built on top of Radix and Tailwind CSS.
 ---
 ## 🛠️ Notable Libraries and Tools
@@ -73,6 +74,7 @@ Built for speed, customization, and scalability, Tailwindadmin is fully responsi
 | **Next.js**            | A powerful React framework that enables server-side rendering, static site generation, and optimized performance for modern web apps. |
 | **React**              | A flexible JavaScript library for building user interfaces using component-based architecture. |
 | **Tailwind CSS**       | A utility-first CSS framework for rapidly building modern and responsive user interfaces. |
+| **Tanstack Start**     | A Full-stack Framework powered by TanStack Router for React and Solid. |
 | **Shadcn UI**          | A set of beautifully designed, accessible components built with Tailwind CSS and Radix UI primitives. |
 | **ApexCharts** | A Popular charting libraries used for visualizing data in dashboards. Replace or remove based on actual usage. |
 | **Iconify Icons**       | Lightweight and customizable SVG icons that fit seamlessly into modern UI designs. |
@@ -113,7 +115,7 @@ npm install
 
 Once the dependencies are installed, you can start a local development server to preview the template: 
 
-For React / Next /Vue
+For React / Next /Vue /Tanstack Start
 ```bash
 npm run dev
 ```
@@ -132,35 +134,17 @@ Welcome to the **Tailwind Admin Dashboard Template** documentation! Whether you'
 
 👉 **[React.js :- Click here to read the full documentation](https://tailwind-admin.github.io/tailwind-admin-documentation/free-documentation/react/index.html)**
 
+👉 **[Tanstack Start :- Click here to read the full documentation](https://tailwind-admin.github.io/tailwind-admin-documentation/free-documentation/tanstackstart/index.html)**
+
+👉 **[Angular :- Click here to read the full documentation](https://tailwind-admin.github.io/tailwind-admin-documentation/free-documentation/angular/index.html)**
+
+👉 **[Vue :- Click here to read the full documentation](https://tailwind-admin.github.io/tailwind-admin-documentation/free-documentation/vuejs/index.html)**
 
 ---
 
-##  🤝  Contributing
-
-We welcome contributions from the community to help improve the **Tailwind Admin Dashboard Template Free Version**. Whether it’s fixing bugs, adding new features, improving documentation, or sharing ideas — your input is appreciated!
-
-### 🛠️ How to Contribute
-
-Follow these simple steps to start contributing:
-
-1. **Fork the Repository**  
-   Click the **Fork** button on the top-right corner of this repo to create your own copy.
-
-2. **Clone Your Fork**  
-   Use the command below to clone your forked repository:
-   ```bash
-   git clone https://github.com/Tailwind-Admin/Tailwind-admin-free.git
-
-3. **Create a New Branch**  
-   Create a new branch to work on your feature or fix. This keeps your changes separate from the main branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-
-4. **Commit and Push Changes**  
-   After making your changes, commit them with a meaningful message and push your branch to your fork:
-   ```bash
-   git commit -am "Add: Description of changes made"
-   git push origin feature/your-feature-name
+## Contributing
+ 
+Please read the [contributing guide](/CONTRIBUTING.md).
 
 ---
 
@@ -177,4 +161,5 @@ Your support helps this project grow faster!
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Nextjs Project: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template&root-directory=tailwind-admin-nextjs-free/package)
+
 
