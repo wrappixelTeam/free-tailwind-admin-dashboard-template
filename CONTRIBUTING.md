@@ -15,6 +15,7 @@ Each template is maintained as a **standalone project**:
 - **Next.js** – `tailwind-admin-nextjs-free`
 - **React** – `tailwind-admin-reactjs-free`
 - **Vue.js** – `tailwind-admin-vuejs-free`
+- **Tanstack Start** – `tailwind-admin-tanstack-start/package`
 
 You only need to work on **one template at a time**.
 
@@ -73,6 +74,8 @@ Tailwind-Admin
 ├── tailwind-admin-reactjs-free/       # React 
 │ └── packages/
 ├── tailwind-admin-vuejs-free/         # Vue Js
+│ └── packages/
+├── tailwind-admin-tanstack-start/package/  # Tanstack Start
 │ └── packages/
 ├── .github/
 ├── README.md
@@ -172,7 +175,7 @@ Example:
 ## 🐛 Reporting Issues
 
 Include:
-- Template name (Angular / HTML / Next.js / React / Vue)
+- Template name (Angular / HTML / Next.js / React / Vue / Tanstack Start)
 - Steps to reproduce
 - Expected vs actual behavior
 - Screenshots or screen recordings (if applicable)
@@ -181,3 +184,4 @@ Include:
 
 We truly appreciate your time and contributions.
 Your help makes these templates better for everyone 🚀
+
